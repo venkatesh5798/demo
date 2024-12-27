@@ -9,7 +9,7 @@ function App() {
   const userdata={
     name:"venkat",
     age:"23",
-    location:"chennai"
+    location:"ranipet"
   }
   const userdata2={
     name:"ramesh",
