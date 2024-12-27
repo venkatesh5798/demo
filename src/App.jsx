@@ -6,6 +6,22 @@ import './App.css'
 function App() {
   const [count, setCount] = useState(0)
 
+  const userdata={
+    name:"venkat",
+    age:"23",
+    location:"chennai"
+  }
+  const userdata2={
+    name:"ramesh",
+    age:"23",
+    location:"coimabatore"
+  }
+  const userdata3={
+    name:"suresh",
+    age:"23",
+    location:"cuddalore"
+  }
+
   return (
     <>
       <div>
