@@ -11,11 +11,7 @@ function App() {
     age:"23",
     location:"vellore"
   }
-  const userdata2={
-    name:"prakesh",
-    age:"23",
-    location:"coimabatore"
-  }
+
 
 
   return (
