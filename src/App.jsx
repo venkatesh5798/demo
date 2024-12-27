@@ -22,6 +22,8 @@ function App() {
     location:"cuddalore"
   }
 
+  
+
   return (
     <>
       <div>
@@ -44,6 +46,7 @@ function App() {
       <p className="read-the-docs">
         Click on the Vite and React logos to learn more
       </p>
+      <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Magnam, itaque!</p>
     </>
   )
 }
