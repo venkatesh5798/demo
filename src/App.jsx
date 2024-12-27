@@ -16,11 +16,7 @@ function App() {
     age:"23",
     location:"coimabatore"
   }
-  const userdata3={
-    name:"user1",
-    age:"23",
-    location:"cuddalore"
-  }
+
 
 
 
