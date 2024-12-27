@@ -47,7 +47,6 @@ function App() {
         Click on the Vite and React logos to learn more
       </p>
       <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Magnam, itaque!</p>
-      <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Praesentium repellendus tempora temporibus sed omnis possimus labore nisi! Consequatur nostrum, commodi nobis nulla ut animi facilis at laboriosam, alias dolore soluta molestiae id? Hic necessitatibus debitis, beatae quos iure id?</p>
     </>
   )
 }
