@@ -7,17 +7,17 @@ function App() {
   const [count, setCount] = useState(0)
 
   const userdata={
-    name:"venkat",
+    name:"suresh",
     age:"23",
     location:"velore"
   }
   const userdata2={
-    name:"ramesh",
+    name:"prakesh",
     age:"23",
     location:"coimabatore"
   }
   const userdata3={
-    name:"suresh",
+    name:"user1",
     age:"23",
     location:"cuddalore"
   }
