@@ -22,11 +22,6 @@ function App() {
     location:"cuddalore"
   }
 
-  const userdata4 ={
-    name:"user4",
-    age:"34"
-  }
-
   return (
     <>
       <div>
