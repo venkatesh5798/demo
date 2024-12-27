@@ -12,6 +12,8 @@ function App() {
     location:"vellore"
   }
 
+
+
   return (
     <>
       <div>
@@ -34,6 +36,7 @@ function App() {
       <p className="read-the-docs">
         Click on the Vite and React logos to learn more
       </p>
+      <div>Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptates, quibusdam illum voluptatum nihil culpa earum quam debitis impedit error maiores.</div>
     </>
   )
 }
